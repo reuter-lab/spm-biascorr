@@ -1,0 +1,4 @@
+work/
+*.nii
+*.nii.gz
+*.mgz
